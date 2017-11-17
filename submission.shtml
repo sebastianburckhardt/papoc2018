@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2017</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+</head><body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20848105-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" --> 
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" --> 
+    </div>
+  </div>
+<!-- end header -->
+
+<!-- start page -->
+<div id="page"><!-- start content -->
+<div id="content">
+<div class="post">
+
+
+<h2> Submission guidelines</h2> 
+
+<p style="text-align: justify;"> 
+
+We solicit proposals for contributed talks. We recommend preparing proposals of
+2 pages, written in English and in either plain text or PDF format.  However,
+we will accept longer proposals or submissions to other conferences, under the
+understanding that PC members are only expected to read the first two pages of
+such longer submissions.  
+
+Authors will have the opportunity to choose if they want their
+papers published in ACM Digital Library (with papers from other EuroSys
+workshops).
+
+<p> All paper submissions will be handled
+via 
+<a href="https://easychair.org/conferences/?conf=papoc2018">Easychair</a>.
+</p>
+
+</div>
+</div>
+
+<!-- end content -->
+
+<!-- start sidebar -->
+<!--#include virtual="./sidebar.shtml" --> 
+<!-- end sidebar -->
+
+<div style="clear: both;">&nbsp;</div>
+
+</div>
+
+<!-- end page -->
+<!-- start footer -->
+<div id="footer">
+<p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+</div>
+</div>
+
+<!-- end footer -->
+</body></html>
+<!-- Localized -->

@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2017</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+</head><body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20848105-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" -->
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" -->
+    </div>
+  </div>
+
+<!-- end header -->
+<!-- start page -->
+<div id="page"><!-- start content -->
+<div id="content">
+<div class="post">
+
+
+<!--
+<h2>Organizing Chairs </h2>
+<ul>
+<li>Ricardo Vilaça (INESC TEC & University of Minho, Portugal)</li>
+<li>João Leitão (NOVA-LINCS & Nova University of Lisbon, Portugal)</li>
+</ul>
+-->
+
+<h2>Program Chairs</h2>
+
+<ul>
+  <li>Sebastian Burckhardt (Microsoft Research, Redmond, USA)</li>
+  <li>Marko Vukolic (IBM Research, Zurich, Switzerland)</li>
+</ul>
+
+<h2>Program Committee</h2>
+
+TBD
+<!-- <ul>
+<li>Carlos Baquero (HASLab, INESC TEC & University of Minho) </li>
+<li>Sebastian Burckhardt (Microsoft Research)</li>
+<li>Alan Fekete (University of Sydney) </li>
+<li>João Leitão (NOVA-LINCS & NOVA University of Lisbon, Portugal)</li>
+<li>Christopher Meiklejohn (Université Catholique de Louvain)</li>
+<li>Achour Mostefaoui (University of Nantes)</li>
+<li>Roberto Palmieri (Virginia Tech)</li>
+<li>Fernando Pedone (University of Lugano)</li>
+<li>Masoud Saeida Ardekani (Samsung Research America)</li>
+<li>Ken Salem (University of Waterloo)</li>
+<li>Pierre Sutra (Télécom SudParis)</li>
+</ul>
+ -->
+<h2>Steering Committee</h2>
+
+<ul>
+  <li>Marc Shapiro (INRIA & LIP6, France)</li>
+  <li>Alexey Gotsman (IMDEA Software Institute, Spain)</li>
+  <li>Annette Bieniusa (University of Kaiserslautern, Germany)</li>
+  <li>Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)</li>
+  <li>Justin Sheehy (VMware Inc., USA)</li>
+  <li>Marco Serafini (Qatar Computing Research Institute, Qatar)</li>
+  <li>Nuno Preguiça (NOVA-LINCS & NOVA University of Lisbon, Portugal)</li>
+  <li>Peter Bailis (Stanford University, USA)</li>
+</ul>
+
+
+</div>
+
+</div>
+
+
+
+<!-- start sidebar -->
+<!--#include virtual="./sidebar.shtml" -->
+<!-- end sidebar -->
+
+
+
+<div style="clear: both;">&nbsp;</div>
+
+</div>
+
+<!-- end page -->
+<!-- start footer -->
+<div id="footer">
+<p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+</div>
+</div>
+
+<!-- end footer -->
+</body></html>
+<!-- Localized -->

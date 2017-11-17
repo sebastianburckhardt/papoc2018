@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2017</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+</head><body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20848105-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" -->
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" -->
+    </div>
+  </div>
+
+<!-- end header -->
+<!-- start page -->
+<div id="page"><!-- start content -->
+<div id="content">
+<div class="post">
+<!-- 
+<a href="http://dl.acm.org/citation.cfm?id=3064889"><h2>PAPOC Proceedings</h2></a>
+  
+  <h2>Program</h2>
+
+9:30 - 10:30 [Joint session with <a href="http://ladisworkshop.org/">LADIS</a>]
+
+    <ul>
+
+    <li>
+  <strong> Invited talk.</strong> Brad King, <a href="http://www.scality.com/">Scality</a>:
+  Byzantine, human and ordinary faults: learnings from muti-petabyte real-world
+      distributed storage systems.</li>
+
+<strong>Abstract.</strong> Scality now has a number of large distributed systems
+      in production around the 
+world with several years of experience. A brief overview of the design of our
+systems and example deployments will be given.  A number of the outcomes of
+different expected and unexpected failures will be presented.  As the scale and
+complexity of such systems increase, so do the possibilities of complex
+failures. Learnings and thoughts about the realities of operating successfully
+at scale will be discussed.
+      
+      </ul>
+
+10:30 - 11:00 Coffee break
+
+      <br>
+      <br>
+
+
+      
+11:00 - 12:30 [Joint session with <a href="http://ladisworkshop.org/">LADIS</a>]
+
+  <ul>
+
+<li>[<a href="http://ladisworkshop.org/">LADIS</a> talk] Marc Shapiro. Bridging
+    the CAP gap with Just-Right Consistency.</li> 
+    
+<li>Diego Didona, Kristina Spirovska and Willy Zwaenepoel. The design of Wren, a
+fast and scalable transactional causally consistent geo-replicated key-value
+store.</li>
+
+<li>João Loff, Daniel Porto, Carlos Baquero, João Garcia, Nuno Preguiça and Rodrigo
+  Rodrigues. Transparent cross-system consistency.</li>
+
+  <li>[<a href="http://ladisworkshop.org/">LADIS</a> talk] Antonio Babalace.
+  Replication-driven live reconfiguration for fast distributed 
+transaction processing.</li>
+
+</ul>
+
+12:30 - 14:00 Lunch
+
+<br>
+<br>
+
+14:00 - 15:30
+
+<ul>
+    <li>Tim Jungnickel and Lennart Oldenburg. pluto: The CRDT-driven IMAP server.</li>
+
+<li>Georges Younes, Paulo Sérgio Almeida and Carlos Baquero. Compact
+resettable counters through causal stability.</li>
+
+<li>Vitor Enes, Carlos Baquero, Paulo Sérgio Almeida and João Leitão. Borrowing an
+  identity for a distributed counter.</li>
+
+  <li>Ali Shoker, Houssam Yactine and Carlos Baquero. As secure as possible eventual consistency.</li>
+</ul>
+
+15:30 - 16:00 Coffee break
+
+<br>
+<br>
+
+16:00 - 17:30
+
+<ul>
+<li>Gonçalo Marcelino, Valter Balegas and Carla Ferreira. Bringing hybrid consistency closer to programmers.</li>
+
+<li>Andrea Cerone, Alexey Gotsman and Hongseok Yang. Algebraic laws for weak consistency.</li>
+
+<li>Peter Zeller. Testing properties of weakly consistent programs with Repliss.</li>
+
+<li>Gonçalo Tomás, Peter Zeller, Valter Balegas, Deepthi Akkoorath, Annette
+Bieniusa, João Leitão and Nuno Preguiça. FMKe: a real-world benchmark for key-value data stores.</li>
+</ul>
+    
+</div>
+</div>
+
+<!-- end content -->
+<!-- start sidebar -->
+<!--#include virtual="./sidebar.shtml" -->
+<!-- end sidebar -->
+<div style="clear: both;">&nbsp;</div>
+
+</div>
+
+ -->
+
+</html>

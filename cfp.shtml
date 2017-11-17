@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2018</title>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+</head><body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20848105-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" --> 
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" --> 
+    </div>
+  </div>
+
+<!-- end header -->
+<!-- start page -->
+<div id="page"><!-- start content -->
+<div id="content">
+<div class="post">
+
+<h2>Call For Papers</h2>
+<!-- <h2>Call For Papers [<a href="">TXT</a>] [<a href="">PDF</a>]</h2> -->
+
+
+<p style="text-align: justify;"> 
+
+Consistency is one of the fundamental issues of distributed computing. There
+are many competing consistency models, with subtly different power in
+principle. In practice, the well-known the Consistency-Availability-Partition
+Tolerance trade-off translates to difficult choices between fault tolerance,
+performance, and programmability. The issues and trade-offs are particularly
+vexing at scale, with a large number of processes or a large shared database,
+and in the presence of high latency and failure-prone networks. It is clear
+that there is no one universally best solution. 
+</p>
+
+
+<p style="text-align: justify;"> 
+Possible approaches cover the
+whole spectrum between strong and eventual consistency. Strong consistency
+(total ordering via, for example, linearizability or serializability) provides
+familiar and intuitive semantics but requires slow and fragile synchronization
+and coordination overheads. The unlimited parallelism allowed by weaker models
+such as eventual consistency promises high performance, but divergence and
+conflicts make it difficult to ensure useful application invariants, and
+meta-data is hard to keep in check. 
+</p>
+
+<p style="text-align: justify;"> 
+The research and development communities
+are actively exploring intermediate models (replicated data types, monotonic
+programming, CRDTs, LVars, causal consistency, red-blue consistency, invariant-
+and proof-based systems, etc.), designed to improve efficiency,
+programmability, and overall operation without negatively impacting
+scalability.
+</p>
+
+<p style="text-align: justify;">
+This workshop aims to investigate the principles and practice of consistency models for large-scale, fault-tolerant, distributed shared data systems.
+It will
+bring together theoreticians and practitioners from different horizons: system
+development, distributed algorithms, concurrency, fault tolerance, databases,
+language and verification, including both academia and industry.
+</p>
+
+<p style="text-align: justify;">
+Relevant discussion topics include:
+</p>
+
+
+<ul type="disc">
+<li class="MsoNormal" style="text-align: justify;">
+Design principles, correctness conditions, and programming patterns for scalable distributed data systems.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Techniques for weak consistency: session guarantees, causal consistency, operational transformation, conflict-free replicated data types, monotonic programming, state merge, commutativity, etc.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Consistency vs. performance and scalability trade-offs: guiding developers, controlling the system.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Analysis and verification of weakly consistent programs.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Strengthening guarantees of weakly consistent system: transactions, fault tolerance, security, ensuring invariants, bounding metadata size, and controlling divergence.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Platform guarantees vs. application involvement: guiding developers, controlling the system.
+</li>
+<li class="MsoNormal" style="text-align: justify;">
+Techniques for scaling and improving the performance of strongly consistent systems (e.g., Paxos-based or state machine replication).
+</li>
+</ul>
+
+
+<h2> Submission Guidelines: </h2>
+<!-- <p style="text-align: justify;">
+Please see <a href="submission.html">the submission page</a> for information.
+
+</p> -->
+
+<p style="text-align: justify;">
+
+We solicit proposals for contributed talks. We recommend preparing proposals of
+2 pages, written in English and in either plain text or PDF format.  However,
+we will accept longer proposals or submissions to other conferences, under the
+understanding that PC members are only expected to read the first two pages of
+such longer submissions.
+
+Authors will have the opportunity to choose if they want their
+papers published in ACM Digital Library (with papers from other EuroSys
+workshops).
+
+<p> All paper submissions will be handled
+via <a href="https://easychair.org/conferences/?conf=papoc2018">Easychair</a>.
+</p>
+
+
+</div>
+
+</div>
+
+<!-- end content -->
+<!-- start sidebar -->
+<!--#include virtual="./sidebar.shtml" --> 
+<!-- end sidebar -->
+<div style="clear: both;">&nbsp;</div>
+
+</div>
+
+<!-- end page -->
+<!-- start footer -->
+<div id="footer">
+<p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+</div>
+</div>
+<!-- end footer -->
+</body></html>
+<!-- Localized -->

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>PaPoC 2017</title>
+  <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header-wrapper">
+    <!-- start header -->
+    <div id="header">
+    <!--#include virtual="./menu.html" --> 
+    </div>
+    <div id="banner">
+    <!--#include virtual="./banner.html" --> 
+    </div>
+  </div>
+
+  <!-- end header -->
+
+  <!-- start page -->
+  <div id="page"><!-- start content -->
+  <div id="content">
+  <div class="post">
+
+  <p style="text-align: justify;"> The Workshop on Principles and Practice of
+  Consistency for Distributed Data will take place on April 23, 2018, in
+  Porto, Portugal, and is co-located with the <a
+   href="http://eurosys2018.org/">EuroSys 2018</a> conference. It is a successor
+  to previous workhops in this series, <a
+   href="http://papoc.di.uminho.pt/">PaPoC 2015</a>,  <a
+   href="http://www2.ucsc.edu/papoc-2016/">PaPoC 2016</a>, and   <a href="http://software.imdea.org/Conferences/PAPOC17/program.shtml">PaPoC 2017</a> which brought
+  together researchers and practitioners in the areas of distributed systems,
+  programming languages, databases and concurrent programming.</p>
+
+  <p style="text-align: justify;">
+  This workshop aims to investigate the principles and practice of weak consistency models for large-scale, distributed shared data systems. It will bring together theoreticians and practitioners from different horizons: system development, distributed algorithms, concurrency, fault tolerance, databases, language and verification, including both academia and industry.
+
+   The <a href="cfp.shtml">Call for Papers</a> for PaPoC 2018 is available, please consider submitting your work.
+  </p>
+
+  </div>
+  </div>
+
+  <!-- end content -->
+  <!-- start sidebar -->
+  <!--#include virtual="./sidebar.shtml" --> 
+  <!-- end sidebar -->
+
+  <div style="clear: both;">&nbsp;</div>
+
+  </div>
+
+  <!-- end page -->
+  <!-- start footer -->
+  <div id="footer">
+  <p>&nbsp;Designed with a template from <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+  <p>&nbsp;Mars image credit: NASA/JPL/Marco Di Lorenzo/Ken Kremer.</p>
+
+  </div>
+</div>
+
+<!-- end footer -->
+</body></html>
+<!-- Localized -->
